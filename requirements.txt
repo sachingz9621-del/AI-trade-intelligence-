@@ -1,0 +1,9 @@
+streamlit>=1.35,<2
+pandas>=2.0,<4
+numpy>=1.24,<3
+yfinance>=0.2.40
+plotly>=5.20
+requests>=2.31
+ta>=0.11
+upstox-python-sdk>=2.19
+# V10 ML engine uses NumPy/Pandas only; no extra ML package required.
